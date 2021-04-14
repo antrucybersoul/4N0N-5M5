@@ -9,7 +9,7 @@
          This tool is called 4N0N 5M5
          
        
-    create account and choose  https://www.proovl.com/
+    create account and choose a number and buy  https://www.proovl.com/
          
              
          
@@ -23,9 +23,9 @@
   
   $ git clone [Link]
   
-  $ cd 4N0N 5M5
+  $ cd 4N0N-5M5
   
-  $ python3 4NON 5M5
+  $ python3 4NON-5M5
   
   
                 
